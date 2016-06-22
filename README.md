@@ -13,5 +13,5 @@
 | D7      | 모터 + or -, led1 +, led2 -|
 | D8      | 모터 - or +, led1 -, led2 +|
 
-[동영상](https://youtu.be/hKMOfAZM7Q8)
+[![](https://raw.githubusercontent.com/mtinet/reverse_motorDirection/master/reverse_motorDirection.png)](https://youtu.be/hKMOfAZM7Q8)
 
