@@ -10,6 +10,8 @@
 | GND     | 배터리 - |
 | D2      | 버튼 1   |
 | D3      | 버튼 2   | 
-| D7      | 모터 +, -|
-| D8      | 모터 -, +|
+| D7      | 모터 + or -, led1 +, led2 -|
+| D8      | 모터 - or +, led1 -, led2 +|
+
+[동영상](https://goo.gl/photos/jD9nidrpd2C6cNDR6)
 
