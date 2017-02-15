@@ -1,7 +1,7 @@
 int button1 = 2;
 int button2 = 3;
-int motor_r = 9;
-int motor_l = 10;
+int motor_r = 7;
+int motor_l = 8;
 int val1 = 0;
 int val2 = 0;
 
